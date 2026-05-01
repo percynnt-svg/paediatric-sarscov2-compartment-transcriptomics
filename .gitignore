@@ -1,0 +1,19 @@
+# Raw data and metadata
+data/
+*.csv
+*.xlsx
+
+# Output files
+outputs/
+*.png
+*.pdf
+*.rds
+*.RData
+
+# RStudio files
+.Rhistory
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
